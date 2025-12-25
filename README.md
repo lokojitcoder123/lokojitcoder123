@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/lokojitcoder123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lokojitcoder123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/LOKOJIT BISWAS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LOKOJIT BISWAS" height="30" width="40" /></a>
-<a href="https://fb.com/Lokojit Biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lokojit Biswas" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/lokojit-biswas-710442261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LOKOJIT BISWAS" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lokojit.biswas.803251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lokojit Biswas" height="30" width="40" /></a>
 <a href="https://twitter.com/LokojitBis25403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LokojitBis25403" height="30" width="40" /></a>
 </p>
 
