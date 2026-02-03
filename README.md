@@ -1,9 +1,19 @@
 # Hi 👋, I'm LOKOJIT BISWAS
 
-### a student of B.Tech CSE in AI & ML
+B.Tech CSE (AIML) | Python, Data Visualization, Database Management & SQL .
+As a Computer Science student specializing in Artificial Intelligence and Machine Learning, I'm diving deep into the world of Data Analytics and Machine Learning. Also I do java advance , doing spring boot frame work , backend by using spring boot 🌱.i an working with java projects .My toolkit includes
 
-- 🌱 I'm currently learning **Hi there! I'm Lokojit Biswas, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning (AIML). I'm passionate about leveraging AI and ML
-**
+Developed and maintained backend systems using various programming languages.
+🔹 Python (NumPy, Pandas, Matplotlib, Seaborn)
+🔹 Data Visualization
+🔹 Database Management & SQL
+🔷Spring boot with java🌱
+🔷 Backend developer
+
+My vision is to leverage statistical logic, mathematical probability, and data science to drive insights and innovation. I'm excited to learn and grow in the field of Data Analytics and Machine Learning.
+
+📈 Apply statistical and mathematical concepts to real-world problems
+🚀 Drive data-driven decision-making
 
 - 📫 How to reach me **lokojitb@gmail.com**
 
