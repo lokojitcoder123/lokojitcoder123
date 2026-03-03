@@ -8,6 +8,7 @@ Developed and maintained backend systems using various programming languages.
 2. Data Visualization
 3. Database Management & SQL
 4. springboot
+   
 My vision is to leverage statistical logic, mathematical probability, and data science to drive insights and innovation. I'm excited to learn and grow in the field of Data Analytics and Machine Learning.
 📈 Apply statistical and mathematical concepts to real-world problems
 🚀 Drive data-driven decision-making
