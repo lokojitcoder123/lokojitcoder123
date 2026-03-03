@@ -4,14 +4,11 @@ B.Tech CSE (AIML) | Python, Data Visualization, Database Management & SQL .
 As a Computer Science student specializing in Artificial Intelligence and Machine Learning, I'm diving deep into the world of Data Analytics and Machine Learning. Also I do java advance , doing spring boot frame work , backend by using spring boot 🌱.i an working with java projects .My toolkit includes
 
 Developed and maintained backend systems using various programming languages.
-🔹 Python (NumPy, Pandas, Matplotlib, Seaborn)
-🔹 Data Visualization
-🔹 Database Management & SQL
-🔷Spring boot with java🌱
-🔷 Backend developer
-
+1. Python (NumPy, Pandas, Matplotlib, Seaborn)
+2. Data Visualization
+3. Database Management & SQL
+4. springboot
 My vision is to leverage statistical logic, mathematical probability, and data science to drive insights and innovation. I'm excited to learn and grow in the field of Data Analytics and Machine Learning.
-
 📈 Apply statistical and mathematical concepts to real-world problems
 🚀 Drive data-driven decision-making
 
