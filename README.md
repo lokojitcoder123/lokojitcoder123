@@ -11,16 +11,6 @@ I am an aspiring software developer and data enthusiast with experience in Pytho
 I have hands-on experience with advanced Python programming using libraries such as NumPy, Pandas, and Matplotlib for data analysis, data processing, and visualization. I also work with SQL-based database management systems to manage and query structured data efficiently.
 In addition to data analysis, I have a strong foundation in Core Java, Data Structures and Algorithms, and fundamental Operating System concepts, which help me build efficient and scalable software solutions.
 
-I also have experience working with:-
-
-1.Business Intelligence and Data Visualization tools like Microsoft Power BI
-
-2.Database management and SQL for structured data handling
-
-3.Linux environments for development and system operations
-
-4.Cloud computing basics using Amazon Web Services
-
 Currently, I am expanding my knowledge in Data Science and Backend Development, focusing on building scalable applications, improving data processing techniques, and applying analytical methods to real-world problems.
 
 Key Skills and Technologies :-
