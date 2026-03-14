@@ -1,3 +1,10 @@
+<!-- GitHub README Banner -->
+<p align="center">
+  <img src="https://wallpaperaccess.com/full/9954280.png" 
+       alt="GitHub Profile Banner" 
+       width="80%" 
+       style="max-width: 900px; border-radius: 10px;">
+</p>
 
 <h1 align="center">Hi 👋, I'm Lokojit Biswas</h1>
 <h3 align="center">A passionate Java developer from India</h3>
@@ -13,7 +20,7 @@ In addition to data analysis, I have a strong foundation in Core Java, Data Stru
 
 Currently, I am expanding my knowledge in Data Science and Backend Development, focusing on building scalable applications, improving data processing techniques, and applying analytical methods to real-world problems.
 
-<img align = "right" alt="Coding" width = "400" src = "https://cdnl.iconscout.com/lottie/premium/thumb/java-6875058-5607634.gif">
+<img align = "right" alt="Coding" width = "700" src = "https://cdnl.iconscout.com/lottie/premium/thumb/java-6875058-5607634.gif">
 
 Key Skills and Technologies :-
 
