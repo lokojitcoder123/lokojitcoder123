@@ -3,8 +3,7 @@
 <h3 align="center">A passionate Java developer from India</h3>
 <img align = "right" alt="Coding" width = "400" src = "https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokojitcoder123" alt="lokojitcoder123" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokojitcoder123&label=Profile%20views&color=0e75b6&style=flat" alt="lokojitcoder123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lokojitbis25403" target="blank"><img src="https://img.shields.io/twitter/follow/lokojitbis25403?logo=twitter&style=for-the-badge" alt="lokojitbis25403" /></a> </p>
 
