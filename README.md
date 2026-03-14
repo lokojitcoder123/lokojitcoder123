@@ -12,25 +12,39 @@ I have hands-on experience with advanced Python programming using libraries such
 In addition to data analysis, I have a strong foundation in Core Java, Data Structures and Algorithms, and fundamental Operating System concepts, which help me build efficient and scalable software solutions.
 
 I also have experience working with:-
+
 1.Business Intelligence and Data Visualization tools like Microsoft Power BI
+
 2.Database management and SQL for structured data handling
+
 3.Linux environments for development and system operations
+
 4.Cloud computing basics using Amazon Web Services
 
 Currently, I am expanding my knowledge in Data Science and Backend Development, focusing on building scalable applications, improving data processing techniques, and applying analytical methods to real-world problems.
 
 Key Skills and Technologies :-
+
 1.Advanced Python Programming
+
 2.Data Analysis with NumPy and Pandas
+
 3.Data Visualization using Matplotlib and Microsoft Power BI
+
 4.SQL and Database Management
+
 5.Core Java
+
 6.Data Structures and Algorithms
+
 7.Operating System Fundamentals
+
 8.Linux Environment
+
 9.Cloud Computing Basics with Amazon Web Services
 
 Current Learning Focus :-
+
 1.Data Science and Machine Learning fundamentals
 2.Backend development and scalable system design
 3.Real-world project development and problem solving
