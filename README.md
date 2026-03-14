@@ -11,10 +11,79 @@
 
 - 🔭 I’m currently working on **banking system and e-commerce website**
 
-- 🌱 I’m currently learning **I am currently focusing on Java backend development and building scalable, enterprise-level applications using Spring Boot. This repository contains my learning projects, experiments, and implementations as I explore backend system design, RESTful API development, and modern DevOps practices such as CI/CD pipelines. My current learning focus includes: Backend development using Java Enterprise application development with Spring Boot Designing and building RESTful APIs Implementing CI/CD pipelines for automated deployment Building real-world backend projects Improving software architecture and code quality This repository reflects my journey of becoming a better backend developer by building practical projects and continuously learning industry best practices.**
+- I am an aspiring software developer and data enthusiast with experience in Python, Java, and data-driven technologies. My work focuses on building efficient applications, analyzing data, and creating meaningful visualizations to support data-driven decision-making.
 
-- 💬 Ask me about **I am an aspiring software developer and data enthusiast with experience in Python, Java, and data-driven technologies. My work focuses on building efficient applications, analyzing data, and creating meaningful visualizations to support data-driven decision-making. I have hands-on experience with advanced Python programming using libraries such as NumPy, Pandas, and Matplotlib for data analysis, data processing, and visualization. I also work with SQL-based database management systems to manage and query structured data efficiently. In addition to data analysis, I have a strong foundation in Core Java, Data Structures and Algorithms, and fundamental Operating System concepts, which help me build efficient and scalable software solutions. I also have experience working with: Business Intelligence and Data Visualization tools like Microsoft Power BI Database management and SQL for structured data handling Linux environments for development and system operations Cloud computing basics using Amazon Web Services Currently, I am expanding my knowledge in Data Science and Backend Development, focusing on building real-world projects, improving data analysis workflows, and developing scalable backend systems. My goal is to continuously improve my technical skills and apply them to build impactful, data-driven applications and modern software solutions.**
+I have hands-on experience with advanced Python programming using libraries such as NumPy, Pandas, and Matplotlib for data analysis, data processing, and visualization. I also work with SQL-based database management systems to manage and query structured data efficiently.
 
+In addition to data analysis, I have a strong foundation in Core Java, Data Structures and Algorithms, and fundamental Operating System concepts, which help me build efficient and scalable software solutions.
+
+I also have experience working with:
+
+Business Intelligence and Data Visualization tools like Microsoft Power BI
+
+Database management and SQL for structured data handling
+
+Linux environments for development and system operations
+
+Cloud computing basics using Amazon Web Services
+
+Currently, I am expanding my knowledge in Data Science and Backend Development, focusing on building real-world projects, improving data analysis workflows, and developing scalable backend systems.
+
+My goal is to continuously improve my technical skills and apply them to build impactful, data-driven applications and modern software solutions.
+
+✅ Short 2-line version (good for GitHub profile header):
+
+Developer with experience in Advanced Python, Data Analysis, and Java Backend fundamentals. Skilled in NumPy, Pandas, Matplotlib, SQL, Power BI, Linux, and AWS, with growing expertise in Data Science and Backend Development.
+
+If you want, I can also create a full professional GitHub README profile (with skills icons, tech stack badges, stats, and project sections) that will make your GitHub look much stronger for recruiters. 🚀
+
+give me a complete professional description by using this so that i can add it on read me file
+
+Here is a complete professional README description you can directly add to your GitHub repository.
+
+Professional Profile
+
+I am a passionate and motivated developer with a strong interest in software development, data analysis, and backend technologies. I have hands-on experience in advanced Python programming, Java fundamentals, and data-driven development, and I continuously work on improving my technical skills by building practical projects and solving real-world problems.
+
+My experience includes working with Python libraries such as NumPy, Pandas, and Matplotlib for data analysis, numerical computation, and data visualization. These tools allow me to process large datasets, perform data manipulation, and create clear visual representations that help in understanding trends and insights.
+
+I also have knowledge of database management and structured data handling using SQL, where I work with queries, data retrieval, and database organization to efficiently manage and analyze information. In addition, I use Business Intelligence tools such as Microsoft Power BI to build dashboards and visualize data for better decision-making.
+
+From a software engineering perspective, I have a solid foundation in Core Java, Data Structures, and Algorithms, which helps me write efficient and optimized code. I also have an understanding of Operating System concepts and experience working in Linux-based environments, which are essential for modern development workflows.
+
+Along with development and data analysis, I have basic exposure to cloud computing and infrastructure, particularly using Amazon Web Services, which helps me understand how applications and data systems are deployed and managed in cloud environments.
+
+Currently, I am expanding my knowledge in Data Science and Backend Development, focusing on building scalable applications, improving data processing techniques, and applying analytical methods to real-world problems.
+
+Key Skills and Technologies
+
+Advanced Python Programming
+
+Data Analysis with NumPy and Pandas
+
+Data Visualization using Matplotlib and Microsoft Power BI
+
+SQL and Database Management
+
+Core Java
+
+Data Structures and Algorithms
+
+Operating System Fundamentals
+
+Linux Environment
+
+Cloud Computing Basics with Amazon Web Services
+
+Current Learning Focus
+
+Data Science and Machine Learning fundamentals
+
+Backend development and scalable system design
+
+Real-world project development and problem solving
+
+My goal is to continuously grow as a developer by combining software engineering, data analysis, and modern technologies to build efficient, scalable, and data-driven solutions.
 - 📫 How to reach me **lokojitb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
