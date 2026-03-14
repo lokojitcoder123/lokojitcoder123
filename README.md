@@ -13,7 +13,7 @@ In addition to data analysis, I have a strong foundation in Core Java, Data Stru
 
 Currently, I am expanding my knowledge in Data Science and Backend Development, focusing on building scalable applications, improving data processing techniques, and applying analytical methods to real-world problems.
 
-<img align = "right" alt="Coding" width = "400" src = "https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align = "right" alt="Coding" width = "400" src = "https://cdnl.iconscout.com/lottie/premium/thumb/java-6875058-5607634.gif">
 
 Key Skills and Technologies :-
 
