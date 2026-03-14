@@ -1,4 +1,4 @@
-[![MasterHead] (https://wallpaperaccess.com/full/9954280.png)]
+
 <h1 align="center">Hi 👋, I'm Lokojit Biswas</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align = "right" alt="Coding" width = "400" src = "https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
