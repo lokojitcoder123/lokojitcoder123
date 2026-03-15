@@ -8,14 +8,13 @@
 
 <h1 align="center">Hi 👋, I'm Lokojit Biswas</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align = "right" alt="Coding" width = "200" src = "https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokojitcoder123&label=Profile%20views&color=0e75b6&style=flat" alt="lokojitcoder123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lokojitbis25403" target="blank"><img src="https://img.shields.io/twitter/follow/lokojitbis25403?logo=twitter&style=for-the-badge" alt="lokojitbis25403" /></a> </p>
 
 I am an aspiring software developer and data enthusiast with experience in Python, Java, and data-driven technologies. My work focuses on building efficient applications, analyzing data, and creating meaningful visualizations to support data-driven decision-making.
-I have hands-on experience with advanced Python programming using libraries such as NumPy, Pandas, and Matplotlib for data analysis, data processing, and visualization. I also work with SQL-based database management systems to manage and query structured data efficiently.
+I have hands-on experience with advanced Python programming using libraries such as NumPy, Pandas, and Matplotlib for data analysis, data processing, and visualization. I also work with SQL-based database management systems to manage and query structured data efficiently.<img align = "right" alt="Coding" width = "400" src = "https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 In addition to data analysis, I have a strong foundation in Core Java, Data Structures and Algorithms, and fundamental Operating System concepts, which help me build efficient and scalable software solutions.
 
 Currently, I am expanding my knowledge in Data Science and Backend Development, focusing on building scalable applications, improving data processing techniques, and applying analytical methods to real-world problems.
