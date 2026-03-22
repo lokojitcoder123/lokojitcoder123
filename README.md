@@ -37,7 +37,7 @@ Current Learning Focus :-
 3.Real-world project development and problem solving
 
 My goal is to continuously grow as a developer by combining software engineering, data analysis, and modern technologies to build efficient, scalable, and data-driven solutions.
-
+.<img align = "middle" alt="Coding" width = "400" src = "https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
 - 📫 How to reach me **lokojitb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
