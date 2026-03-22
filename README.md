@@ -1,6 +1,6 @@
 <!-- GitHub README Banner -->
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/9954280.png" 
+  <img align = "middle" alt="Coding" width = "600" length="100" src="https://wallpaperaccess.com/full/9954280.png" 
        alt="GitHub Profile Banner" 
        width="80%" 
        style="max-width: 900px; border-radius: 10px;">
@@ -13,32 +13,40 @@
 
 <p align="left"> <a href="https://twitter.com/lokojitbis25403" target="blank"><img src="https://img.shields.io/twitter/follow/lokojitbis25403?logo=twitter&style=for-the-badge" alt="lokojitbis25403" /></a> </p>
 
-I am an aspiring software developer and data enthusiast with experience in Python, Java, and data-driven technologies. My work focuses on building efficient applications, analyzing data, and creating meaningful visualizations to support data-driven decision-making.
-I have hands-on experience with advanced Python programming using libraries such as NumPy, Pandas, and Matplotlib for data analysis, data processing, and visualization. I also work with SQL-based database management systems to manage and query structured data efficiently.<img align = "right" alt="Coding" width = "400" src = "https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
-In addition to data analysis, I have a strong foundation in Core Java, Data Structures and Algorithms, and fundamental Operating System concepts, which help me build efficient and scalable software solutions.
+### Option 1: The Modern Professional (Balanced & Clean)
+This version highlights your duality as a Developer and an AI/ML student.
 
-Currently, I am expanding my knowledge in Data Science and Backend Development, focusing on building scalable applications, improving data processing techniques, and applying analytical methods to real-world problems.
+# Hi, I'm [Your Name] 👋         <img align = "right" alt="Coding" width = "400" src = "https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+**B.Tech CSE (AI & Machine Learning) | Full Stack Java Developer | Cloud & Microservices Enthusiast**
 
-Key Skills and Technologies :-
+I am a software engineer passionate about building scalable, distributed systems and integrating them with intelligent data-driven insights. My expertise lies in the **Java Ecosystem** and **Data Science**, allowing me to build robust backends that can handle complex data processing.
 
-1.Advanced Python Programming
-2.Data Analysis with NumPy and Pandas
-3.Data Visualization using Matplotlib and Microsoft Power BI
-4.SQL and Database Management
-5.Core Java
-6.Data Structures and Algorithms
-7.Operating System Fundamentals
-8.Linux Environment
-9.Cloud Computing Basics with Amazon Web Services
+---                         
 
-Current Learning Focus :-
-1.Data Science and Machine Learning fundamentals
-2.Backend development and scalable system design
-3.Real-world project development and problem solving
+### 💻 Core Tech Stack
 
-My goal is to continuously grow as a developer by combining software engineering, data analysis, and modern technologies to build efficient, scalable, and data-driven solutions.
+* **Backend:** Java (Core & Advanced), Spring, Spring Boot, Hibernate, Servlets, JDBC.
+* **Architecture:** Microservices, RESTful APIs, Maven.
+* **Cloud & DevOps:** AWS Deployment, Linux (Ubuntu/CentOS).
+* **Data Science/AI:** Python, NumPy, Pandas, Matplotlib, Data Visualization.         <img align = "right" alt="Coding" width = "700" src = "https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
 
-<img align = "middle" alt="Coding" width = "700" src = "https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
+### 🚀 What I'm working on
+* ☁️ Deploying Spring-based Microservices to **AWS**.
+* 📊 Refining data visualization techniques for AI models.
+* 🛠️ Building end-to-end Full Stack applications with Java.
+
+---
+
+## 🛠 Skills & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Java Development** | Spring Boot, Microservices, Hibernate, Servlets, Maven |
+| **AI / Data Science** | Python, NumPy, Pandas, Matplotlib, Data Visualization |
+| **Cloud & OS** | AWS (EC2/S3), Linux CLI, Bash Scripting |
+| **Database** | JDBC, SQL, JPA |
+
+
 - 📫 How to reach me **lokojitb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
