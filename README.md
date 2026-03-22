@@ -1,22 +1,15 @@
 <!-- GitHub README Banner -->
-<p align="center">
-  <img align = "middle" alt="Coding" width = "600" length="100" src="https://wallpaperaccess.com/full/9954280.png" 
-       alt="GitHub Profile Banner" 
-       width="80%" 
-       style="max-width: 900px; border-radius: 10px;">
-</p>
-
-<h1 align="center">Hi 👋, I'm Lokojit Biswas</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+ <img align = "middle" alt="Coding" width = "900" src = "https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
 
 
-### Option 1: The Modern Professional (Balanced & Clean)
-This version highlights your duality as a Developer and an AI/ML student.
+# Hi there! 👋 I'm Lokojit Biswas
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=B.Tech+CSE+AIML+Student;Java+Full+Stack+Developer;Passionate+Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
       
 **B.Tech CSE (AI & Machine Learning) | Full Stack Java Developer | Cloud & Microservices Enthusiast**
 
-I am a software engineer passionate about building scalable, distributed systems and integrating them with intelligent data-driven insights. My expertise lies in the **Java Ecosystem** and **Data Science**, allowing me to build robust backends that can handle complex data processing.
-
+I'm a B.Tech CSE (AIML) student at Brainware University, driven by a passion for building robust and intelligent applications. As a Java Full Stack Developer, I thrive on crafting seamless user experiences and powerful backend systems. My journey into Artificial Intelligence and Machine Learning fuels my desire to explore cutting-edge technologies and solve complex problems with innovative solutions. I believe in the power of clean code, continuous learning, and collaborative development.
 ---                         
 
 ### 💻 Core Tech Stack
@@ -24,12 +17,15 @@ I am a software engineer passionate about building scalable, distributed systems
 * **Backend:** Java (Core & Advanced), Spring, Spring Boot, Hibernate, Servlets, JDBC.
 * **Architecture:** Microservices, RESTful APIs, Maven.
 * **Cloud & DevOps:** AWS Deployment, Linux (Ubuntu/CentOS).
-* **Data Science/AI:** Python, NumPy, Pandas, Matplotlib, Data Visualization.         <img align = "right" alt="Coding" width = "700" src = "https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
+* **Data Science/AI:** Python, NumPy, Pandas, Matplotlib, Data Visualization.        
 
-### 🚀 What I'm working on
-* ☁️ Deploying Spring-based Microservices to **AWS**.
-* 📊 Refining data visualization techniques for AI models.
-* 🛠️ Building end-to-end Full Stack applications with Java.
+## 🎯 Current Focus
+
+- 🔭 Working on: **Developing scalable microservices using Spring Boot and exploring MLOps pipelines.** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **Advanced Deep Learning architectures and cloud-native development with Kubernetes.** <!-- TODO: Add what you're currently learning -->
+- 👯 Looking to collaborate on: **Open Source AIML projects, Java-based enterprise solutions, and data science initiatives.**
+- 💬 Ask me about: **Java, Spring Boot, Data Structures & Algorithms, Machine Learning fundamentals, and system design.** <!-- TODO: Add your areas of expertise -->
+- ⚡ Fun fact: **I love unraveling complex algorithms and often find myself debugging code in my dreams!** <!-- TODO: Add a fun fact -->
 
 ---
 
