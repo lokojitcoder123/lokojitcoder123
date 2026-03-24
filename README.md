@@ -14,7 +14,7 @@ I'm a B.Tech CSE (AIML) student at Brainware University, driven by a passion for
 
 ### 💻 Core Tech Stack
 
-* **Backend:** Java (Core & Advanced), Spring, Spring Boot, Hibernate, Servlets, JDBC.
+* **Backend:** Java (Core & Advanced), Spring, Spring Boot,  Servlets, JDBC.
 * **Architecture:** Microservices, RESTful APIs, Maven.
 * **Cloud & DevOps:** AWS Deployment, Linux (Ubuntu/CentOS).
 * **Data Science/AI:** Python, NumPy, Pandas, Matplotlib, Data Visualization.        
@@ -22,7 +22,7 @@ I'm a B.Tech CSE (AIML) student at Brainware University, driven by a passion for
 ## 🎯 Current Focus
 
 - 🔭 Working on: **Developing scalable microservices using Spring Boot and exploring MLOps pipelines.** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **Advanced Deep Learning architectures and cloud-native development with Kubernetes.** <!-- TODO: Add what you're currently learning -->
+- 🌱 Learning: ** Bckend , Machine Learning , architectures and cloud-native development with Kubernetes.** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source AIML projects, Java-based enterprise solutions, and data science initiatives.**
 - 💬 Ask me about: **Java, Spring Boot, Data Structures & Algorithms, Machine Learning fundamentals, and system design.** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact: **I love unraveling complex algorithms and often find myself debugging code in my dreams!** <!-- TODO: Add a fun fact -->
@@ -33,10 +33,10 @@ I'm a B.Tech CSE (AIML) student at Brainware University, driven by a passion for
 
 | Category | Technologies |
 | :--- | :--- |
-| **Java Development** | Spring Boot, Microservices, Hibernate, Servlets, Maven |
+| **Java Development** | Spring Boot, Microservices,Servlets, Maven, Spring core |
 | **AI / Data Science** | Python, NumPy, Pandas, Matplotlib, Data Visualization |
-| **Cloud & OS** | AWS (EC2/S3), Linux CLI, Bash Scripting |
-| **Database** | JDBC, SQL, JPA |
+| **Cloud & OS** | AWS (EC2/S3), Linux, Docker |
+| **Database** | JDBC, SQL, Mongodb |
 
 
 - 📫 How to reach me **lokojitb@gmail.com**
