@@ -22,7 +22,7 @@ I'm a B.Tech CSE (AIML) student at Brainware University, driven by a passion for
 ## 🎯 Current Focus
 
 - 🔭 Working on: **Developing scalable microservices using Spring Boot and exploring MLOps pipelines.** <!-- TODO: Add your current main project -->
-- 🌱 Learning: ** Bckend , Machine Learning , architectures and cloud-native development with Kubernetes.** <!-- TODO: Add what you're currently learning -->
+- 🌱 Learning: ** Bckend , Machine Learning , architectures and cloud-native development with aws.** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source AIML projects, Java-based enterprise solutions, and data science initiatives.**
 - 💬 Ask me about: **Java, Spring Boot, Data Structures & Algorithms, Machine Learning fundamentals, and system design.** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact: **I love unraveling complex algorithms and often find myself debugging code in my dreams!** <!-- TODO: Add a fun fact -->
