@@ -56,10 +56,6 @@ I'm a B.Tech CSE (AIML) student at Brainware University, driven by a passion for
   </a>
 </p>
 
-## 📊 Advanced GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokojitcoder123&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokojitcoder123&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
