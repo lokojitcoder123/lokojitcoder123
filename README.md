@@ -1,5 +1,5 @@
 <!-- GitHub README Banner -->
- <img align = "middle" alt="Coding" width = "800" src = "https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
+
 
 
 # Hi there! 👋 I'm Lokojit Biswas
