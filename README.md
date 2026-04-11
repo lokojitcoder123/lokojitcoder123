@@ -1,42 +1,3 @@
-<!-- GitHub README Banner -->
-
-
-
-# Hi there! 👋 I'm Lokojit Biswas
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=B.Tech+CSE+AIML+Student;Java+Full+Stack+Developer;Passionate+Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
-
-      
-**B.Tech CSE (AI & Machine Learning) | Full Stack Java Developer | Cloud & Microservices Enthusiast**
-
-I'm a B.Tech CSE (AIML) student at Brainware University, driven by a passion for building robust and intelligent applications. As a Java Full Stack Developer, I thrive on crafting seamless user experiences and powerful backend systems. My journey into Artificial Intelligence and Machine Learning fuels my desire to explore cutting-edge technologies and solve complex problems with innovative solutions. I believe in the power of clean code, continuous learning, and collaborative development.
----                         
-
-### 💻 Core Tech Stack
-
-* **Backend:** Java (Core & Advanced), Spring, Spring Boot,  Servlets, JDBC.
-* **Architecture:** Microservices, RESTful APIs, Maven.
-* **Cloud & DevOps:** AWS Deployment, Linux (Ubuntu/CentOS).
-* **Data Science/AI:** Python, NumPy, Pandas, Matplotlib, Data Visualization.        
-
-## 🎯 Current Focus
-
-- 🔭 Working on: **Developing scalable microservices using Spring Boot and exploring MLOps pipelines.** <!-- TODO: Add your current main project -->
-- 🌱 Learning: ** Bckend , Machine Learning , architectures and cloud-native development with aws.** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source AIML projects, Java-based enterprise solutions, and data science initiatives.**
-- 💬 Ask me about: **Java, Spring Boot, Data Structures & Algorithms, Machine Learning fundamentals, and system design.** <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact: **I love unraveling complex algorithms and often find myself debugging code in my dreams!** <!-- TODO: Add a fun fact -->
-
----
-
-## 🛠 Skills & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Java Development** | Spring Boot, Microservices,Servlets, Maven, Spring core |
-| **AI / Data Science** | Python, NumPy, Pandas, Matplotlib, Data Visualization |
-| **Cloud & OS** | AWS (EC2/S3), Linux, Docker |
-| **Database** | JDBC, SQL, Mongodb |
 
 
 - 📫 How to reach me **lokojitb@gmail.com**
@@ -74,8 +35,6 @@ I'm a B.Tech CSE (AIML) student at Brainware University, driven by a passion for
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lokojitcoder123&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-  ### 🚀 "Code is poetry, and every commit tells a story"
 
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
