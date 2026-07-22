@@ -68,20 +68,15 @@ paired with polished React frontends.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokojitcoder123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokojitcoder123&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokojitcoder123&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="98%" />
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lokojit-biswas-710442261"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" /></a>
-  <a href="https://leetcode.com/lokojitcoder123"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" /></a>
-  <a href="https://twitter.com/lokojitbis25403"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" /></a>
-</p>
 
 <p align="center">⭐ If you find my projects interesting, feel free to star the repos!</p>
