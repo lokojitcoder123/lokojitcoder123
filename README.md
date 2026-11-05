@@ -3,12 +3,10 @@
 
 <h1 align="center">Hi, I'm Lokojit Biswas 👋</h1>
 
-<h3 align="center">Java Full-Stack Developer · AI/ML Builder · Privacy-First LLM Integration</h3>
-
+<h3 align="center"> Full-Stack Developer · AI/ML Builder · Applied AI h3>
+  
 <p align="center">
-I build AI-integrated, privacy-first applications and end-to-end machine learning pipelines — 
-clean layered backends with Spring Boot & Spring AI, local and cloud LLMs wired into real products, 
-paired with polished React frontends.
+Computer Science and Engineering undergraduate specializing in AI & ML, with hands-on experience building full-stack applications, scalable backend systems, and end-to-end Generative AI solutions. Proficient in Java, Spring Boot, Python, FastAPI, React, and REST API development, with experience in Advanced RAG architectures, LLM integration, LangChain, LangGraph, and MCP servers. Skilled in database management and integration across PostgreSQL, MySQL, Redis, vector databases, and Pinecone, alongside cloud-based application development. Strong understanding of software architecture, AI-powered application development, and machine learning, with a track record of competitive hackathon participation, including SIH 2026 finalist and Top 5 Hack2Skill Datathon recognition. Seeking Software Engineering, Backend Development, and Applied AI opportunities.
 </p>
 
 <p align="center">
